@@ -1,5 +1,9 @@
 "# Dynamic-Escape" 
-DynEscape dataset: toxicity detection
+
+DynEscape dataset: this is a perturbed dataset for toxicity detection.
+
+You also can access to this dataste from huggingface: https://huggingface.co/datasets/kkk3lll/DynEscape
+
 The paper has been published. Please cite the following paper if you would like to use this dataset.
 ```
 @article{kang2026developing,
