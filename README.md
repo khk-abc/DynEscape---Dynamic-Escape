@@ -2,7 +2,7 @@
 
 DynEscape dataset: this is a perturbed dataset for toxicity detection.
 
-You also can access to this dataste from huggingface: https://huggingface.co/datasets/kkk3lll/DynEscape
+You also can access to this dataset from Hugging Face: https://huggingface.co/datasets/kkk3lll/DynEscape
 
 The paper has been published. Please cite the following paper if you would like to use this dataset.
 ```
